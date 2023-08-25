@@ -1,0 +1,26 @@
+{
+  "name": "★★ 𝗩𝗜𝗣 𝗜𝗗-𝗖𝗛𝗔𝗧𝗕𝗢𝗧 ★★",
+  "description": "Advanced Database Backend Chatbot Based On Pyrogram Userbot",
+  "logo": "https://te.legra.ph/file/8e4b74fa5c406ff759a12.jpg",
+  "keywords": [
+    "telegram",
+    "bot",
+    "python",
+    "pyrogram"
+  ],
+    "env": {
+        "SESSION_NAME": {
+            "description": " 𝐀 𝐒𝐢𝐦𝐩𝐥𝐞 𝐏𝐲𝐫𝐨𝐠𝐫𝐚𝐦 𝐒𝐭𝐫𝐢𝐧𝐠 𝐒𝐞𝐬𝐬𝐢𝐨𝐧. 𝗚𝗲𝘁 𝗜𝘁 𝗙𝗿𝗼𝗺:- t.me/VIP_STRING_ROBOT",
+            "required": true
+        },        
+        "MONGO_URL": {
+            "description": "𝐅𝐢𝐥𝐥 𝐘𝐨𝐮𝐫 𝐖𝐨𝐫𝐤𝐢𝐧𝐠 𝐌𝐨𝐧𝐠𝐨(ғᴏʀ ғᴀsᴛ ᴡᴏʀᴋ)",
+            "required": true
+        }
+    },
+    "addons": [
+        {
+            "plan": "heroku-postgresql"
+        }
+    ]
+}
