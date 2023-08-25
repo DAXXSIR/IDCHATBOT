@@ -1,3 +1,7 @@
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DAXXSIR&repo=IDCHATBOT&theme=flag-india)](https://github.com/nacbots/broadcastbot&bg_color=#24292F
+
+
 ### 𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒🚫🚫🚫🚫🚫
 
 <!--
