@@ -1,6 +1,4 @@
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DAXXSIR&repo=IDCHATBOT&theme=flag-india)]
-
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DAXXSIR&repo=IDCHATBOT&theme=flag-india)
 
 ### 𝐕𝐈𝐒𝐈𝐓𝐎𝐑𝐒🚫🚫🚫🚫🚫
 
